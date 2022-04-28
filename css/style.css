@@ -1,0 +1,30 @@
+body {
+    font: 20px arial;
+}
+.navbar{
+    background-color: rgb(227, 194, 200);
+}
+
+.sobre-mim{
+    background-color: #f4d5c0;
+    color: grey;
+}
+
+.procedi{
+    color: grey;
+}   
+
+.depoiment{
+    background-color: #f4d5c0;
+    color: grey;
+}
+
+.margin {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: antiquewhite;
+}
